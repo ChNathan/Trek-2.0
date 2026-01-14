@@ -13,4 +13,5 @@ Included in this Repo Are:
 
 For any questions, comments, or concerns, please don't hestitate to contact us.
 - Group 1, EPS Fall 2025
-<img width="2427" height="1622" alt="image" src="https://github.com/user-attachments/assets/9b5a9b1f-8f0d-4da2-b0ce-c6384c11f927" />
+<img width="1166" height="791" alt="image" src="https://github.com/user-attachments/assets/51791bc5-2067-4870-bddc-ef951bfe15cf" />
+
